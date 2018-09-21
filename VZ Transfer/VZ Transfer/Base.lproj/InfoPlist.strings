@@ -1,0 +1,16 @@
+/* 
+  InfoPlist.strings
+  contenttransfer
+
+  Created by Kalluri, Krishna on 10/9/17.
+  Copyright © 2017 Verizon Wireless Inc. All rights reserved.
+*/
+
+"NSAppleMusicUsageDescription" = "Used to transfer your Music between devices";
+"NSBluetoothPeripheralUsageDescription" = "Used to check Bluetooth status";
+"NSCalendarsUsageDescription" = "Used to transfer your Calendars between devices";
+"NSCameraUsageDescription" = "App Needs to access camera to Scan QR Code";
+"NSContactsUsageDescription" = "Used to transfer your Contacts between devices";
+"NSLocationWhenInUseUsageDescription" = "Location is used to determine if you are in a Verizon store location";
+"NSPhotoLibraryUsageDescription" = "Used to transfer your Photos between devices";
+"NSRemindersUsageDescription" = "Used to transfer your Reminders between devices";

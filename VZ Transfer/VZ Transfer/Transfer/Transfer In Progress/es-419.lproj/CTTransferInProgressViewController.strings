@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Your transfer is in progress."; ObjectID = "R5B-nL-ufD"; */
+"R5B-nL-ufD.text" = "Tu transferencia está en curso.";
+
+/* Class = "UILabel"; text = "Keep the app open for a smooth transfer."; ObjectID = "aLV-hJ-02e"; */
+"aLV-hJ-02e.text" = "Ten la aplicación abierta para una transferencia sin problemas.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "h5B-YX-J2b"; */
+"h5B-YX-J2b.normalTitle" = "Cancelar";

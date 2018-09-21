@@ -1,0 +1,51 @@
+
+/* Class = "UIButton"; normalTitle = "Manual setup"; ObjectID = "34h-Yf-5k8"; */
+"34h-Yf-5k8.normalTitle" = "Configuración manual";
+
+/* Class = "UIButton"; normalTitle = "Wi-Fi Settings"; ObjectID = "7Nv-K1-eTt"; */
+"7Nv-K1-eTt.normalTitle" = "Configuración de Wi-Fi";
+
+/* Class = "UILabel"; text = "Scan this QR code with the other device."; ObjectID = "C67-Jv-yii"; */
+"C67-Jv-yii.text" = "Scan this QR code with the other device.";
+
+/* Class = "UIButton"; normalTitle = "Manual setup"; ObjectID = "JNf-xj-hV1"; */
+"JNf-xj-hV1.normalTitle" = "Configuración manual";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M6f-rW-RMT"; */
+"M6f-rW-RMT.text" = "Label";
+
+/* Class = "UILabel"; text = "Be on the lookout for an invite to start the transfer."; ObjectID = "N1W-AG-8UG"; */
+"N1W-AG-8UG.text" = "Recibirás una invitación para iniciar la transferencia.";
+
+/* Class = "UILabel"; text = "WiFi Connected to:"; ObjectID = "OqU-My-awI"; */
+"OqU-My-awI.text" = "Wi-Fi Conectado a:";
+
+/* Class = "UILabel"; text = "Use this device to scan the QR code on the other screen."; ObjectID = "PXM-gV-Hkg"; */
+"PXM-gV-Hkg.text" = "Utiliza este dispositivo para escanear el código QR en la otra pantalla.";
+
+/* Class = "UILabel"; text = "Check your new phone and connect."; ObjectID = "Pca-Tj-5Nn"; */
+"Pca-Tj-5Nn.text" = " Comprueba tu nuevo teléfono y conéctate";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QVC-IE-0yv"; */
+"QVC-IE-0yv.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XB1-v3-Y9o"; */
+"XB1-v3-Y9o.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Could not connect"; ObjectID = "cLl-ar-Orx"; */
+"cLl-ar-Orx.normalTitle" = "No podía conectar";
+
+/* Class = "UIButton"; normalTitle = "Wi-Fi Settings"; ObjectID = "csd-Sh-HGe"; */
+"csd-Sh-HGe.normalTitle" = "Configuración de Wi-Fi";
+
+/* Class = "UIButton"; normalTitle = "Manual setup"; ObjectID = "eJl-c3-uus"; */
+"eJl-c3-uus.normalTitle" = "Configuración manual";
+
+/* Class = "UILabel"; text = "Peek at your other screen."; ObjectID = "hay-Pc-CNn"; */
+"hay-Pc-CNn.text" = " Mira tu otra pantalla.";
+
+/* Class = "UILabel"; text = "Scan this QR code with the other device."; ObjectID = "jVD-IJ-Qwt"; */
+"jVD-IJ-Qwt.text" = "Escanee este código QR con el otro dispositivo.";
+
+/* Class = "UILabel"; text = "Scan this QR code with the other device."; ObjectID = "tgb-Ro-YE0"; */
+"tgb-Ro-YE0.text" = "Escanee este código QR con el otro dispositivo.";

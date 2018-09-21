@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="NSQ-sw-ZR4" customClass="CTPinKeyboardAccessoryView">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="50"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Jr-MD-xIA">
+                    <rect key="frame" x="509" y="0.0" width="91" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="50" id="HdW-YD-BgQ">
+                            <variation key="widthClass=regular" constant="32"/>
+                        </constraint>
+                        <constraint firstAttribute="width" constant="91" id="nUq-Le-kYe">
+                            <variation key="widthClass=regular" constant="182"/>
+                        </constraint>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                    <state key="normal" title="Connect">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Vfo-uM-kdq">
+                    <rect key="frame" x="0.0" y="0.0" width="91" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="91" id="Dq2-64-eNT">
+                            <variation key="widthClass=regular" constant="182"/>
+                        </constraint>
+                        <constraint firstAttribute="height" constant="50" id="ish-EB-yuH">
+                            <variation key="widthClass=regular" constant="32"/>
+                        </constraint>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="16"/>
+                    <state key="normal" title="Dismiss">
+                        <color key="titleColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                    </state>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="9Jr-MD-xIA" secondAttribute="trailing" id="G2g-fD-STh"/>
+                <constraint firstItem="Vfo-uM-kdq" firstAttribute="leading" secondItem="NSQ-sw-ZR4" secondAttribute="leading" id="ezN-1q-7g5"/>
+                <constraint firstItem="Vfo-uM-kdq" firstAttribute="centerY" secondItem="NSQ-sw-ZR4" secondAttribute="centerY" id="qPp-Jo-nGN"/>
+                <constraint firstItem="9Jr-MD-xIA" firstAttribute="centerY" secondItem="NSQ-sw-ZR4" secondAttribute="centerY" id="srK-Qf-MTE"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="connectButton" destination="9Jr-MD-xIA" id="J5Q-cC-lNT"/>
+                <outlet property="dismissButton" destination="Vfo-uM-kdq" id="DFx-8N-qp4"/>
+            </connections>
+            <point key="canvasLocation" x="203" y="-1024"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = ">"; ObjectID = "O7F-KF-FR2"; */
+"O7F-KF-FR2.text" = ">";
+
+/* Class = "UILabel"; text = "Rate your overall experience transferring your content."; ObjectID = "SQe-gd-Fo0"; */
+"SQe-gd-Fo0.text" = "Evalúa tu experiencia general con esta transferencia";
+
+/* Class = "UILabel"; text = "Your transfer is complete. Check your new phone to see how it went."; ObjectID = "ZvR-PT-gGl"; */
+"ZvR-PT-gGl.text" = "Su transferencia está completa. Revisa tu nuevo teléfono para ver el resultado.";
+
+/* Class = "UILabel"; text = "Tell us how we're doing"; ObjectID = "aLU-sJ-7wS"; */
+"aLU-sJ-7wS.text" = "Dinos como lo estamos haciendo";
+
+/* Class = "UILabel"; text = "We Value Your Opinion"; ObjectID = "iyN-gj-9sL"; */
+"iyN-gj-9sL.text" = "Valoramos su opinión ";

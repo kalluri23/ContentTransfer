@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="CTSenderTransferTableViewCell">
+            <rect key="frame" x="0.0" y="0.0" width="383" height="98.5"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="8PE-Xh-9dk">
+                    <rect key="frame" x="32" y="40" width="18" height="18"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="18" id="kkZ-7o-sQL">
+                            <variation key="heightClass=regular-widthClass=regular" constant="50"/>
+                        </constraint>
+                        <constraint firstAttribute="height" constant="18" id="or6-ot-jSh">
+                            <variation key="heightClass=regular-widthClass=regular" constant="50"/>
+                        </constraint>
+                    </constraints>
+                </imageView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="imW-m4-8rT">
+                    <rect key="frame" x="66" y="29" width="285" height="41"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="865-du-Nhm" customClass="CTBoldFontLabel">
+                            <rect key="frame" x="0.0" y="2" width="285" height="16"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="16" id="sOv-97-TN1"/>
+                                <constraint firstAttribute="height" constant="21" id="vou-Wc-wD8">
+                                    <variation key="heightClass=regular-widthClass=regular" constant="30"/>
+                                </constraint>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                            <variation key="default">
+                                <mask key="constraints">
+                                    <exclude reference="vou-Wc-wD8"/>
+                                </mask>
+                            </variation>
+                            <variation key="heightClass=regular-widthClass=regular">
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <mask key="constraints">
+                                    <include reference="vou-Wc-wD8"/>
+                                </mask>
+                            </variation>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="RPM-L3-gd6" customClass="CTRomanFontLabel">
+                            <rect key="frame" x="0.0" y="23" width="168.5" height="16"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="135.5" id="JrF-Za-QTb"/>
+                                <constraint firstAttribute="height" constant="16" id="uOL-Ax-uqO"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                            <variation key="heightClass=regular-widthClass=regular">
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                            </variation>
+                        </label>
+                        <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.69999998807907104" adjustsLetterSpacingToFitWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="pvw-tM-Jtn" customClass="CTRomanFontLabel">
+                            <rect key="frame" x="169" y="23" width="116" height="16"/>
+                            <constraints>
+                                <constraint firstAttribute="width" priority="800" constant="116" id="OeU-Qc-VjU"/>
+                                <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="16" id="VoE-JO-QDr"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                            <variation key="heightClass=regular-widthClass=regular">
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            </variation>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="pvw-tM-Jtn" firstAttribute="leading" secondItem="RPM-L3-gd6" secondAttribute="trailing" constant="0.5" id="2G5-AM-bWb"/>
+                        <constraint firstAttribute="trailing" secondItem="pvw-tM-Jtn" secondAttribute="trailing" id="EVO-En-Y8A"/>
+                        <constraint firstAttribute="trailing" secondItem="865-du-Nhm" secondAttribute="trailing" id="EkP-dZ-Sns"/>
+                        <constraint firstItem="RPM-L3-gd6" firstAttribute="top" secondItem="865-du-Nhm" secondAttribute="bottom" constant="5" id="F3V-dP-WlW"/>
+                        <constraint firstItem="pvw-tM-Jtn" firstAttribute="centerY" secondItem="RPM-L3-gd6" secondAttribute="centerY" id="NYl-LH-bf0"/>
+                        <constraint firstItem="865-du-Nhm" firstAttribute="top" secondItem="imW-m4-8rT" secondAttribute="top" constant="2" id="OBf-0c-aop"/>
+                        <constraint firstAttribute="height" constant="41" id="YZc-c8-DXf">
+                            <variation key="heightClass=regular-widthClass=regular" constant="50"/>
+                        </constraint>
+                        <constraint firstItem="865-du-Nhm" firstAttribute="leading" secondItem="imW-m4-8rT" secondAttribute="leading" id="t35-IL-SdC"/>
+                        <constraint firstItem="RPM-L3-gd6" firstAttribute="leading" secondItem="865-du-Nhm" secondAttribute="leading" id="ue5-Oj-Gbf"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="imW-m4-8rT" secondAttribute="trailing" constant="32" id="86m-8b-RLV"/>
+                <constraint firstItem="8PE-Xh-9dk" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="Cjb-wt-Ivh"/>
+                <constraint firstItem="imW-m4-8rT" firstAttribute="centerY" secondItem="8PE-Xh-9dk" secondAttribute="centerY" id="QGp-mQ-VKa"/>
+                <constraint firstItem="imW-m4-8rT" firstAttribute="leading" secondItem="8PE-Xh-9dk" secondAttribute="trailing" constant="16" id="d5H-57-ahp"/>
+                <constraint firstItem="8PE-Xh-9dk" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="32" id="fdh-4E-U6q"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="checkboxImageView" destination="8PE-Xh-9dk" id="Ji4-WT-lrl"/>
+                <outlet property="primaryLabel" destination="865-du-Nhm" id="BAE-DB-4Cs"/>
+                <outlet property="secondaryLabel" destination="RPM-L3-gd6" id="EPB-NI-NdG"/>
+                <outlet property="thirdLabel" destination="pvw-tM-Jtn" id="egd-08-1e9"/>
+            </connections>
+            <point key="canvasLocation" x="34.5" y="124.5"/>
+        </view>
+    </objects>
+</document>

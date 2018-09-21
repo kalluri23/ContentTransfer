@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0Ep-hx-NL4"; */
+"0Ep-hx-NL4.text" = "Label";
+
+/* Class = "UILabel"; text = "Scroll down to see more "; ObjectID = "1yh-Sg-2M2"; */
+"1yh-Sg-2M2.text" = " Desplácese hacia abajo para ver más ";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "M8Q-Ae-oav"; */
+"M8Q-Ae-oav.normalTitle" = "Terminado";
+
+/* Class = "UILabel"; text = "Choose which Apps to install"; ObjectID = "d2J-vf-Oir"; */
+"d2J-vf-Oir.text" = " Elige las aplicaciones a instalar";
+
+/* Class = "UILabel"; text = "Click install to search for the app in the App Store. Some apps from your old device may not be available."; ObjectID = "ueZ-5u-VwD"; */
+"ueZ-5u-VwD.text" = "Haz clic en instalar para buscar la aplicación en la App Store. Es posible que algunas aplicaciones de tu dispositivo antiguo no estén disponibles";

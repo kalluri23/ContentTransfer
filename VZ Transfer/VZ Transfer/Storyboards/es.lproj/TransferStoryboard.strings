@@ -1,0 +1,72 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1GX-oi-iE7"; */
+"1GX-oi-iE7.text" = "Label";
+
+/* Class = "UILabel"; text = "* Sign in to your Cloud account on the new device to access Cloud content."; ObjectID = "4Fo-qe-4Wy"; */
+"4Fo-qe-4Wy.text" = "* Inicia sesión en su cuenta de Cloud en el nuevo dispositivo para acceder al contenido de tu nube.";
+
+/* Class = "UIButton"; normalTitle = "Select All"; ObjectID = "8oM-tI-VQM"; */
+"8oM-tI-VQM.normalTitle" = "Seleccionar todo";
+
+/* Class = "UILabel"; text = "Here’s your transfer recap."; ObjectID = "97s-P3-z4o"; */
+"97s-P3-z4o.text" = "Aquí está su Resumen de la transferencia";
+
+/* Class = "UILabel"; text = "What are you transferring?"; ObjectID = "Cpu-Mj-BiT"; */
+"Cpu-Mj-BiT.text" = "¿Qué estás transfiriendo?";
+
+/* Class = "UILabel"; text = "Getting ready to transfer."; ObjectID = "EKt-Ea-zgt"; */
+"EKt-Ea-zgt.text" = "Preparación para la transferencia";
+
+/* Class = "UILabel"; text = "Your transfer is complete. Check your new phone to see how it went."; ObjectID = "ErE-Xf-t7e"; */
+"ErE-Xf-t7e.text" = "Su transferencia está completa. Revisa tu nuevo teléfono para ver el resultado.";
+
+/* Class = "UILabel"; text = "Speed"; ObjectID = "G8D-c6-ggg"; */
+"G8D-c6-ggg.text" = "Velocidad";
+
+/* Class = "UILabel"; text = "Congrats. You're done."; ObjectID = "GRp-cQ-6hS"; */
+"GRp-cQ-6hS.text" = "Felicitaciones. Ya terminaste.";
+
+/* Class = "UIButton"; normalTitle = "Transfer"; ObjectID = "HIJ-h6-Xfo"; */
+"HIJ-h6-Xfo.normalTitle" = "Transferir";
+
+/* Class = "UILabel"; text = "Some of your photos didn’t\ntransfer all the way."; ObjectID = "JJK-Z8-5qx"; */
+"JJK-Z8-5qx.text" = "Algunas de tus fotos no fueron completamente transferidas";
+
+/* Class = "UIButton"; normalTitle = "Got it"; ObjectID = "Ls1-Wg-7vw"; */
+"Ls1-Wg-7vw.normalTitle" = "Entiendo";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "P4B-cv-YIl"; */
+"P4B-cv-YIl.normalTitle" = "Terminado";
+
+/* Class = "UILabel"; text = "See how 3.4GB of your 5GB transferred."; ObjectID = "P6Y-2Q-rhL"; */
+"P6Y-2Q-rhL.text" = "Vea cómo %@ MB de su %@ transferido.";
+
+/* Class = "UIButton"; normalTitle = "Recap"; ObjectID = "Rly-Zi-1dO"; */
+"Rly-Zi-1dO.normalTitle" = "Resumen";
+
+/* Class = "UILabel"; text = "Keep the app open for a smooth transfer."; ObjectID = "Veg-hh-DMn"; */
+"Veg-hh-DMn.text" = "Ten la aplicación abierta para una transferencia sin problemas.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gQ3-4c-ZOr"; */
+"gQ3-4c-ZOr.text" = "Label";
+
+/* Class = "UILabel"; text = "Choose all the things you want on your new phone."; ObjectID = "pfZ-9L-8ub"; */
+"pfZ-9L-8ub.text" = "Elige todas las cosas que deseas en tu nuevo teléfono.";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "qba-hJ-WhW"; */
+"qba-hJ-WhW.normalTitle" = "Terminado";
+
+/* Class = "UILabel"; text = "Total time"; ObjectID = "wL7-59-xGv"; */
+"wL7-59-xGv.text" = "Tiempo Total";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "xi0-Kv-dXh"; */
+"xi0-Kv-dXh.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Verizon Cloud Protects"; ObjectID = "PTf-vM-eE8"; */
+"PTf-vM-eE8.text" = "Verizon Cloud Protege";
+
+/* Class = "UILabel"; text = "Your memories are always safe with Verizon Cloud. Keep your photos, videos, contacts and more protected from devices loss or damage when you back up to Cloud. Now get 500GB for only $5/month."; ObjectID = "rzh-d1-unq"; */
+"rzh-d1-unq.text" = "Tus recuerdos siempre están a salvo con Verizon Cloud. Protege tus fotos, videos, contactos y más de pérdidas o daños en tu dispositivo, al hacer copias de seguridad en la nube. Ahora, obtén 500 GB por tan solo $5/mes.";
+
+/* Class = "UIButton"; normalTitle = "Learn More"; ObjectID = "q4X-7T-ZZ0"; */
+"q4X-7T-ZZ0.normalTitle" = "Descubre más";

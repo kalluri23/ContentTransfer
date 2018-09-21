@@ -1,0 +1,33 @@
+
+/* Class = "UILabel"; text = "Select the name of your new phone when it appears below. If you don’t see it, search again."; ObjectID = "IWD-pr-wCr"; */
+"IWD-pr-wCr.text" = "Select the name of your new phone when it appears below. If you don’t see it, search again.";
+
+/* Class = "UILabel"; text = "Check your new phone and connect."; ObjectID = "Jpy-5h-9T4"; */
+"Jpy-5h-9T4.text" = "Check your new phone and connect.";
+
+/* Class = "UIButton"; normalTitle = "Search again"; ObjectID = "PDP-mQ-Jez"; */
+"PDP-mQ-Jez.normalTitle" = "Search again";
+
+/* Class = "UILabel"; text = "Do you see the name of\nyour new phone?"; ObjectID = "TQX-iX-vsz"; */
+"TQX-iX-vsz.text" = "Do you see the name of\nyour new phone?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cre-fo-2j1"; */
+"cre-fo-2j1.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "e2x-RP-dAI"; */
+"e2x-RP-dAI.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Be on the lookout for an invite to start the transfer."; ObjectID = "eqq-2E-hM5"; */
+"eqq-2E-hM5.text" = "Be on the lookout for an invite to start the transfer.";
+
+/* Class = "UIButton"; normalTitle = "I don't see it"; ObjectID = "gCO-Pg-Scd"; */
+"gCO-Pg-Scd.normalTitle" = "I don't see it";
+
+/* Class = "UILabel"; text = "New phone’s name"; ObjectID = "pWi-gV-ej2"; */
+"pWi-gV-ej2.text" = "New phone’s name";
+
+/* Class = "UILabel"; text = "Select your new phone’s name when it appears on the other screen or let us know if you don’t see it."; ObjectID = "x21-F5-Sow"; */
+"x21-F5-Sow.text" = "Select your new phone’s name when it appears on the other screen or let us know if you don’t see it.";
+
+/* Class = "UILabel"; text = "Peek at your other screen."; ObjectID = "x47-1g-7T5"; */
+"x47-1g-7T5.text" = "Peek at your other screen.";

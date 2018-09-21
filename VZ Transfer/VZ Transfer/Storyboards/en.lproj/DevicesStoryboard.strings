@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Advanced options"; ObjectID = "6qO-Ut-zmi"; */
+"6qO-Ut-zmi.text" = "Advanced options";
+
+/* Class = "UILabel"; text = "Select your combination."; ObjectID = "8Ce-w6-nA2"; */
+"8Ce-w6-nA2.text" = "Select your combination.";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "DXx-wS-Rwg"; */
+"DXx-wS-Rwg.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "Du0-bP-dm5"; */
+"Du0-bP-dm5.text" = "Terms and Conditions";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Fb4-mC-tln"; */
+"Fb4-mC-tln.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "HM0-D8-hmT"; */
+"HM0-D8-hmT.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Hw3-fJ-9Ca"; */
+"Hw3-fJ-9Ca.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "KUJ-gM-7aV"; */
+"KUJ-gM-7aV.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "By clicking \"Start Transfer\" you are accepting the Terms and Conditions"; ObjectID = "mBU-ha-cvF"; */
+"mBU-ha-cvF.text" = "By clicking \"Start Transfer\" you are accepting the Terms and Conditions";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QPL-uJ-uuW"; */
+"QPL-uJ-uuW.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Start transfer"; ObjectID = "ZZ8-Cy-MP7"; */
+"ZZ8-Cy-MP7.normalTitle" = "Start transfer";
+
+/* Class = "UILabel"; text = "Get both phones ready to transfer."; ObjectID = "iCW-ZK-Yd0"; */
+"iCW-ZK-Yd0.text" = "Get both phones ready to transfer.";
+
+/* Class = "UILabel"; text = "Privacy Policy   |   About"; ObjectID = "ka0-gm-iAH"; */
+"ka0-gm-iAH.text" = "Privacy Policy   |   About";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jAh-G2-2nk"; */
+"jAh-G2-2nk.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kVE-ij-9GS"; */
+"kVE-ij-9GS.text" = "Label";
+
+/* Class = "UILabel"; text = "Open My Verizon and make sure both phones are on this screen. Follow the instructions in sync, so each device is on the same step."; ObjectID = "Yx7-aK-cwP"; */
+"Yx7-aK-cwP.text" = "Open My Verizon and make sure both phones are on this screen. Follow the instructions in sync, so each device is on the same step.";
+
+/* Class = "UILabel"; text = "sub label"; ObjectID = "sMQ-wJ-e7d"; */
+"sMQ-wJ-e7d.text" = "sub label";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "yIB-gq-aQU"; */
+"yIB-gq-aQU.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "So, which phone is this?"; ObjectID = "zmi-pp-TMF"; */
+"zmi-pp-TMF.text" = "So, which phone is this?";

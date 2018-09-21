@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="CTTransferInProgressTableCell" rowHeight="67" id="PRE-w1-X7T" customClass="CTTransferInProgressTableCell">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="67"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="PRE-w1-X7T" id="bHp-lP-Wy2">
+                <rect key="frame" x="0.0" y="0.0" width="600" height="66.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="1000" verticalCompressionResistancePriority="1000" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rq0-ce-uUo" customClass="CTNHaasGroteskDSStd65MdLabel">
+                        <rect key="frame" x="32" y="23.5" width="368" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="368" id="pyO-WF-TOr"/>
+                            <constraint firstAttribute="height" constant="20" id="w7d-4c-eK6"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="heightClass=regular-widthClass=regular">
+                            <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                        </variation>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="1000" verticalCompressionResistancePriority="1000" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="swe-JL-eTf" customClass="CTRomanFontLabel">
+                        <rect key="frame" x="418" y="23.5" width="150" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="az4-Y8-tFb">
+                                <variation key="heightClass=regular-widthClass=regular" constant="25"/>
+                            </constraint>
+                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="150" id="iPs-Ii-kne"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="heightClass=regular-widthClass=regular">
+                            <fontDescription key="fontDescription" type="system" pointSize="22"/>
+                        </variation>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="rq0-ce-uUo" firstAttribute="centerY" secondItem="bHp-lP-Wy2" secondAttribute="centerY" id="3dA-bZ-7q3"/>
+                    <constraint firstAttribute="trailing" secondItem="swe-JL-eTf" secondAttribute="trailing" constant="32" id="DC1-aO-7ku"/>
+                    <constraint firstItem="swe-JL-eTf" firstAttribute="centerY" secondItem="rq0-ce-uUo" secondAttribute="centerY" id="cp0-ok-3Gj"/>
+                    <constraint firstItem="rq0-ce-uUo" firstAttribute="leading" secondItem="bHp-lP-Wy2" secondAttribute="leading" constant="32" id="rdI-dk-sZT"/>
+                </constraints>
+            </tableViewCellContentView>
+            <inset key="separatorInset" minX="32" minY="0.0" maxX="32" maxY="0.0"/>
+            <connections>
+                <outlet property="keyLabel" destination="rq0-ce-uUo" id="Gtx-Hp-sLD"/>
+                <outlet property="leftMargin" destination="rdI-dk-sZT" id="UUH-wp-OAb"/>
+                <outlet property="rightMargin" destination="DC1-aO-7ku" id="vze-Pa-IK8"/>
+                <outlet property="valueLabel" destination="swe-JL-eTf" id="pQa-GM-IdP"/>
+                <outlet property="widthOfValueLabel" destination="iPs-Ii-kne" id="OfG-ge-BDb"/>
+            </connections>
+            <point key="canvasLocation" x="34" y="140"/>
+        </tableViewCell>
+    </objects>
+</document>

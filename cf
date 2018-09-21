@@ -1,0 +1,131 @@
+#!/bin/bash
+
+submit=0
+
+build_framework() {
+    printf "\n===== Enter content transfer workspace\n"
+    cd "$CT_PATH"
+
+    printf "\n===== Building the framework:\n"
+    # build the framework
+    xcodebuild \
+    -project "contenttransfer.xcodeproj" \
+    -configuration "Store_Release" \
+    -scheme "contentTransferAggergate" \
+    archive
+
+	if [ $submit -eq 1 ]; then
+	    printf "\n===== Copy the framework into MVM, and replace the old one:\n"
+	    if [ -d "$MVM_PATH/contentTransferFramework.framework" ]; then
+	        rm -r "$MVM_PATH/contentTransferFramework.framework"
+			echo "remove"
+	    fi
+	    cp -R ./contentTransferFramework.framework "$MVM_PATH"
+
+	    printf "\n===== Commit the framework:\n"
+	    cd "$MVM_PATH"
+	    git add contentTransferFramework.framework
+	    git commit -m "Script update content transfer framework."
+	    git push
+	fi
+
+    printf "\n===== Process done! =====\n"
+}
+
+show_manual() {
+    printf "\nCreate framework(cf) for MVM script: v1.0\n"
+    printf "Author: sunxi\n"
+    printf "Usage: cf [-s] start\n\n"
+	printf "Parameters supported:\n"
+	printf "start   Parameter is needed to initiate the process.\n"
+	printf 's      Add this when need to submit the framework.\n\n'
+}
+
+show_env() {
+    if [[ $1 -eq 0 ]]; then
+        printf "No content transfer env path found.\n"
+    else
+        printf "No mvm env path found.\n"
+    fi
+
+    printf "To setup the env for the project, go to $HOME folder of the machine and edit .profile.\n If no .profile exist, just create a new one. Add blow line:\n"
+    if [[ $1 -eq 0 ]]; then
+        printf "export CT_PATH=\"xxxxx\".\n"
+    else
+        printf "export MVM_PATH=\"xxxxx\".\n"
+    fi
+}
+
+
+# Main
+# Check parameter: cf [-s] start
+if [ $# -gt 0 -a $# -lt 3 ]; then
+	last_param=${!#} 
+    if [ $last_param != "start" ]; then
+     	show_manual
+        exit 0
+	fi
+	
+	if [ $# -eq 2 ]; then
+		if [ $1 != "-s" ]; then
+			show_manual
+			exit 0
+		fi
+		
+		submit=1
+	fi
+else
+    show_manual
+    exit 0
+fi
+
+# Check enviorments
+if [[ ${CT_PATH:+1} ]]; then
+    echo "Read path for content transfer: $CT_PATH"
+else
+    show_env 0
+    exit 0
+fi
+
+if [[ ${MVM_PATH:+1} ]]; then
+    echo "Read path for MVM: $MVM_PATH"
+else
+    show_env 1
+    exit 0
+fi
+
+if [ ! -d "$MVM_PATH" ]; then
+    printf "No MVM folder is found. Verify the env setting."
+fi
+
+if [ ! -d "$CT_PATH" ]; then
+    printf "No content transfer folder is found. Verify the env setting."
+fi
+
+if [ $submit -eq 1 ]; then
+	printf "Updating MVM feature/enhancements code"
+	
+	cd "$MVM_PATH"
+	currentBranch=$(git symbolic-ref HEAD | sed -e 's/refs\/heads\///g')
+	printf "\n===== repo:$repo ----> current branch = '$currentBranch'\n"
+
+	if [[ $currentBranch == "feature/enhancements" ]]; then
+	    #Pull the latest code
+	    printf "\n===== repo:$repo ----> pulling branch: $branchName \n"
+	    git pull
+	    build_framework
+	else
+	    #Checkout enhancements
+	    git checkout "feature/enhancements"
+	    if [[ $? == 0 ]]; then
+	        git pull
+	        build_framework
+	    else
+	        echo "error: branch $branchName does not exist, exit code = 1"
+	        echo 1 >$exitCode
+	        exit 1
+	    fi
+	fi
+else
+	build_framework
+fi

@@ -1,0 +1,57 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0c8bda86-a929-b448-a807-e75e70a61a37++600+++E3B1E28",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0c8bda86-a929-b448-a807-e75e70a61a37++505+++F8A3BB3" : {
+      "DVTSourceControlWorkingCopyRepositoryBranchesLocationKey" : "branches",
+      "DVTSourceControlWorkingCopyRepositoryTagsLocationKey" : "tags",
+      "DVTSourceControlWorkingCopyRepositoryPrimaryBranchLocationKey" : "trunk"
+    },
+    "0c8bda86-a929-b448-a807-e75e70a61a37++3677+++419AFAE" : {
+
+    },
+    "0c8bda86-a929-b448-a807-e75e70a61a37++600+++E3B1E28" : {
+
+    },
+    "0c8bda86-a929-b448-a807-e75e70a61a37++3677+++50399DA" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0c8bda86-a929-b448-a807-e75e70a61a37++505+++F8A3BB3" : 9223372036854775807,
+    "0c8bda86-a929-b448-a807-e75e70a61a37++3677+++419AFAE" : 0,
+    "0c8bda86-a929-b448-a807-e75e70a61a37++600+++E3B1E28" : 9223372036854775807,
+    "0c8bda86-a929-b448-a807-e75e70a61a37++3677+++50399DA" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D4C196D9-6EB9-47A7-A6E8-B2AE78795FB5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0c8bda86-a929-b448-a807-e75e70a61a37++505+++F8A3BB3" : "trunk\/",
+    "0c8bda86-a929-b448-a807-e75e70a61a37++3677+++419AFAE" : "vzcontent_transfer_standalone\/",
+    "0c8bda86-a929-b448-a807-e75e70a61a37++600+++E3B1E28" : "CT_SVN\/",
+    "0c8bda86-a929-b448-a807-e75e70a61a37++3677+++50399DA" : "vzcontent_transfer_standalone\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "contenttransfer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VZ Transfer\/contenttransfer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/vvm-dev.vzw.com\/svn\/vzcontent_transfer_standalone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0c8bda86-a929-b448-a807-e75e70a61a37++3677+++419AFAE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/unjbedemp01.uswin.ad.vzwcorp.com\/svn\/vzcontent_transfer_standalone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0c8bda86-a929-b448-a807-e75e70a61a37++3677+++50399DA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/vvm-dev.vzw.com\/svn\/vzcontent_transfer_standalone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0c8bda86-a929-b448-a807-e75e70a61a37++505+++F8A3BB3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/unjbedemp01.uswin.ad.vzwcorp.com\/svn\/vzcontent_transfer_standalone",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0c8bda86-a929-b448-a807-e75e70a61a37++600+++E3B1E28"
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+/*
+ Localizable.strings
+ contenttransfer
+ 
+ Created by Kalluri, Krishna on 8/25/17.
+ Copyright © 2017 Verizon Wireless Inc. All rights reserved.
+ */
+
+/* Default Alert label Title text*/
+"Content Transfer" = "Content Transfer";
+
+/* OK button title text */
+"OK" = "Aceptar";
+
+/* Cancel button title text*/
+"Cancel" = "Cancelar";
+
+/* Continue button title text*/
+"Continue" = "Continuar";
+
+/*Ignore button title text*/
+"Ignore" = "Ignorar";
+
+/*More Info button title text*/
+"More Info" = "Más Info";
+
+/*Low battery alert title text*/
+"Plug in and charge up." = "Enchufa y recarga.";
+
+/*Low battery alert body text*/
+"Don’t run out of battery in the middle of your transfer. You’re better off charging up to be safe." = "No se quede sin batería en medio de su transferencia. Es mejor que te recargues para estar a salvo.";
+
+/*Got it button title text*/
+"Got it" = "Entiendo";
+
+/*Recap button title text*/
+"Recap" = "Resumen";
+
+/*Try again button title text*/
+"Try again" = "Inténtalo de nuevo";
+
+/*Alert body Error message*/
+"Please turn off bluetooth & turn on Wifi" = "Por favor apague el bluetooth y encienda el Wifi";
+
+/*Alert body Error message*/
+"Please turn off Bluetooth" = "Por favor apague el Bluetooth";
+
+/*Alert body App permission message*/
+"This app requires permission to access" = "Esta aplic requiere permiso para acceder a";
+
+/*Alert title Version Mismatch*/
+"Version Mismatch" = "La Versión no Coincide";
+
+/*Alert title transfer interrupt error message*/
+"Oops. Looks like your transfer was interrupted." = "¡Ay! Parece que se interrumpió tu transferencia.";
+
+/*Alert body transfer interrupt error meassage*/
+"Your transfer didn't finish. Review the transfer recap or try again." = "Tu transferencia no se completó. Revisa el resumen de la transferencia o vuelve a intentarlo.";
+
+/*Alert title storage full error message*/
+"Your new phone is crowded." = "Tu nuevo teléfono está lleno.";
+
+/*Alert body storage full error message*/
+"Not enough free space on your new device. Select less files and try again." = "No hay suficiente espacio libre en tu nuevo dispositivo. Seleccione menos archivos y vuelva a intentarlo.";
+
+/*Alert title Rate Content Transfer*/
+"Rate Content Transfer" = "Calificar Transferencia de contenido";
+
+/*Alert Body Rate Content Transfer*/
+"If you enjoy using Content Transfer app, would you like to take a moment to rate it? It won't take more than a minute. Thanks for your support!" = "Si te gusta usar la aplicación Transferencia de contenido, ¿puedes tomarte un momento para evaluarla? No tomará más de un minuto. ¡Gracias por tu apoyo!";
+
+/*Button title No, Thanks*/
+"No, Thanks" = "No, gracias";
+
+/*Button title Not now*/
+"Not now" = "Ahora no";
+
+/*Button title Rate App*/
+"Rate App" = "Calificar aplicación";
+
+/*Alert body quit from app*/
+"Are you sure you want to quit? Data will not be saved." = "¿Seguro que quieres salir? Los datos no se guardarán.";
+
+/* Yes button title */
+"Yes" = "Sí";
+
+/*No button title*/
+"No" = "No";
+
+/*Ok button title*/
+"Ok" = "Aceptar";
+
+/*Delete button title*/
+"Delete" = "Borrar";
+
+/*Save button title*/
+"Save" = "Archivar";
+
+/*Decline Button title*/
+"Decline" = "Rechazar";
+
+/*Grant Access Button title*/
+"Grant Access" = "Autorizar";
+
+/*Confirm Button title*/
+"Confirm" = "Confirmar";
+
+/*Settings Button title*/
+"Settings" = "Configuración";
+
+/*Wi - Fi settings button title*/
+"Wi-Fi Settings" = "Configuración de Wi-Fi";
+
+/*Go to setting button title*/
+"Go to setting" = "Ir a config";
+
+/*Turn on button title*/
+"Turn on" = "Encender";
+
+/*Turn off button title*/
+"Turn off" = "Apagar";
+
+/*Blue tooth settings button title*/
+"Bluetooth Settings" = "Bluetooth Configuración";
+
+/*Upgrade button title*/
+"Upgrade" = "Actualizar";
+
+/*Dismiss button title*/
+"Dismiss" = "Despachar";
+
+/*Get started Nav Title*/
+"Phone-to-Phone Transfer" = "Transferencia";
+
+/*Get Started primary message label*/
+"Open Content Transfer and make sure both phones are on this screen. Follow the instructions in sync, so each device is on the same step." = "Abre Content Transfer y asegúrate de que los dos teléfonos estén en esta pantalla. Sigue las instrucciones en sincronía para que cada dispositivo esté en el mismo paso.";
+
+/*Info alert body label*/
+"Build Version: %@\n Date: %@" = "Versión de la edición: %@\n Fecha: %@";
+
+/*Preparing to save data label*/
+"Preparing to save unsaved data..." = "Preparación para guardar los datos no guardados...";
+
+/*Preparing to delete data label*/
+"Preparing to delete unsaved data..." = "Preparación para eliminar datos no guardados...";
+
+/*Detected unsaved data alert body label*/
+
+"Detected unsaved contents from the last transaction. Do you want to save them?" = "Detectado el contenido no guardado de la última transacción. ¿Desea guardarlos?";
+
+/*Contacts count*/
+"Contacts" = "Contactos";
+
+/*Photos count*/
+"Photos" = "Fotos";
+
+/*Videos count*/
+"Videos" = "Vídeos";
+
+/*Remainders count*/
+"Reminders" = "Recordatorios";
+
+/*Calenders count*/
+"Calendars" = "Calendarios";
+
+/*Apps List*/
+"Apps List" = "Lista de Aplicaciones";
+
+/*Deleted Contacts Info message*/
+"Deleted contacts" = "Borro contactos";
+
+/*Deleted reminders Info message*/
+"Deleted reminders" = "Borro recordatorios";
+
+/*Deleted calenders Info message*/
+"Deleted calendars" = "Borro calendarios";
+
+/*Deleted photos Info message*/
+"Deleted photos" = "Borro fotos";
+
+/*Deleted videos Info message*/
+"Delete videos" = "Borro vídeos";
+
+/*Delete apps list message*/
+"Delete apps list..." = "Borro lista de aplic...";
+
+/*Saving Contacts Info message*/
+"Saving contacts" = "Ahorrando contactos";
+
+/*Saving reminders Info message*/
+"Saving reminders" = "Ahorrando recordatorios";
+
+/*Saving calenders Info message*/
+"Saving calendars" = "Ahorrando calendarios";
+
+/*Saving photos Info message*/
+"Saving photos" = "Ahorrando fotos";
+
+/*Saving videos Info message*/
+"Saving videos" = "Ahorrando vídeos";
+
+/*Device selection navigation title*/
+"Setup" = "Configurar";
+
+/*Contacts literal string*/
+"contacts" = "contactos";
+
+/*Photos literal string*/
+"photos" = "fotos";
+
+/*Videos literal string*/
+"videos" = "vídeos";
+
+/*Calenders literal string*/
+"calendars" = "calendarios";
+
+/*Reminders literal string*/
+"reminders" = "recordatorios";
+
+/*Music literal string*/
+"music" = "música";
+
+/*Camera literal string*/
+"camera" = "cámara";
+
+/*And*/
+"and" = "y";
+
+/*App permission alert context*/
+"This app requires permission to access %@. Grant access by modifying settings->Privacy" = "Esta aplic requiere permiso para acceder a %@. Conceder acceso modificando Configuración>Privacidad";
+
+/*App permission access alert context*/
+"This app requires permission to access %@. Click on Grant Access to turn on this permission" = "Esta aplicación requiere permiso para acceder a %@. Haz clic en Conceder acceso para activar este permiso";
+
+/*Old phone option primary label text */
+"This is my old phone" = "Este es mi viejo teléfono.";
+
+/*Old phone option secondary label text */
+"I'll be transferring things from this phone." = "Voy a transferir cosas de este teléfono.";
+
+/*New phone option primary label text*/
+"This is my new phone" = "Este es mi nuevo teléfono";
+
+/*New phone option secondary label text*/
+"I'll be transferring things to this phone." = "Voy a transferir cosas a este teléfono.";
+
+/*Feature not allowed alert context*/
+"This feature is not allowed for this device." = "Esta función no está permitida para este dispositivo.";
+
+/*Iphone to Iphone option label*/
+"iPhone to iPhone" = "iPhone a iPhone";
+
+/*Iphone to Other option label*/
+"iPhone to Other" = "iPhone a Otro";
+
+/*Other to Iphone option label*/
+"Other to iPhone" = "Otro a iPhone";
+
+/*Bonjour connection invitation alert title*/
+"Do you want to start the transfer?" = "¿Desea iniciar la transferencia?";
+
+/*Bonjour connection invitation alert context*/
+"Tap connect button within %d seconds to connect." = "Toque el botón de conexión dentro de %d segundos para conectarse.";
+
+/*Turn ON Wifi Alert context*/
+"\nPlease turn on Wifi" = "\nPor favor, enciende el Wifi";
+
+/*WiFi settings path*/
+"\n\nGo to Settings -> Wi-Fi and toggle On." = "\n\nVe a Configuración -> Wi-Fi y actívalo.";
+
+/*Turn OFF Blue tooth Alert context*/
+"\nPlease turn off bluetooth" = "\nPor favor, apaga el bluetooth";
+
+/*Bluetooth settings path*/
+"\n\nGo to Settings -> Bluetooth and toggle Off." = "Ve a Configuración -> Bluetooth y desactívalo.";
+
+/*Formatted Turn OFF Blue tooth Alert context*/
+"%@ and turn off bluetooth" = "%@ y apague el bluetooth";
+
+/*Wifi and Bluetooth settings path*/
+"\n\nGo to Settings -> Wi-Fi and toggle On, then to Settings -> Bluetooth and toggle Off." = "\n\nVe a Configuración -> Wi-Fi y actívalo, luego a Configuración -> Bluetooth y desactívalo.";
+
+/*Start publishing service Alert context*/
+" to start publishing service." = " para iniciar el servicio de publicación";
+
+/*Version Mismatch sender Alert context*/
+"The Content Transfer app on the other device seems to be out of date. Please update the app on that device to v:%@" = "La aplicación Transferencia de contenido en el otro dispositivo parece estar obsoleta. Actualiza la aplicación en ese dispositivo a v:%@";
+
+/*Version Mismatch receiver Alert context*/
+"The Content Transfer app on this device seems to be out of date. Please update the app to v:%@" = "La aplicación Transferencia de contenido en este dispositivo parece estar obsoleta. Actualiza la aplicación a v:%@";
+
+/*Instore and connected to guest wifi alert context*/
+"It appears you have connected to the Verizon Guest Wifi Network. For optimum performance, please select the MCT-Fast (preferred) or MCT Network. The network uses a password which has been copied to your clipboard. Please paste it in the password field when you join the network.\n\nPassword: vztransfer" = "Parece que se te has conectado a la red Wi-Fi de invitados de Verizon. Para un rendimiento óptimo, selecciona la red MCT-Fast (preferida) o MCT. Contraseña: vztransfer";
+
+/*Not sure in store alert context*/
+"Are you using the Verizon store wifi? For optimum performance, please select the MCT-Fast (preferred) or MCT Network. The network uses a password which has been copied to your clipboard. Please paste it in the password field when you join the network.\n\nPassword: vztransfer" = "¿Estás usando Wi-Fi en una tienda de Verizon? Para obtener un rendimiento óptimo, seleccione la red MCT-Fast (preferida) o MCT. La red utiliza una contraseña que se ha copiado en el portapapeles. Pegarlo en el campo de contraseña al unirse a la red.0.\n\nContraseña: vztransfer";
+
+/*Open Wi-Fi and connect to a network Alert context*/
+"Please open Wi-Fi settings and select a network to connect to." = "Abra la Configuración Wi-Fi y seleccione una red para conectarse.";
+
+/*Bonjour connection pairing problem Alert context*/
+"There was a problem while pairing on the current network. Please choose a different network or try Manual Setup." = "Se ha producido un problema de emparejamiento en la red actual. Elija una red diferente o pruebe la configuración manual.";
+
+/*Bonjour connection manual pairing Alert context*/
+"Do you want to connect your devices manually?\n\nClicking OK will restart the app. Please choose Manual Setup on the other device also.\n" = "¿Deseas conectar tus dispositivos manualmente?\n\nAl hacer clic en Aceptar, la aplicación se reiniciará. Elige Configuración manual en el otro dispositivo también.";
+
+/*Try another way button title*/
+"Try another way" = "Prueba de otra manera";
+
+/*Rescan button title*/
+"Rescan" = "Volver a escanear";
+
+/*Back camera error message label*/
+"Cannot open back camera." = "La cámara trasera no se puede abrir.";
+
+/*Back Camera Alert Context*/
+"We cannot use your back camera. Please make sure you're camera is functional. Also make sure you granted the camera permission.\n\n Or \n\n You can use \"Manual Setup\" to continue" = "No podemos usar tu cámara trasera. Asegúrese de que su cámara es funcional. También asegúrese de que le concedió el permiso de la cámara.\n\n O \n\n Puede utilizar \"Configuración Manual\" para continuar";
+
+/*Manual Setup button title*/
+"Manual Setup" = "Configuración Manual";
+
+/*Opening camera info message label*/
+"Opening camera..." = "Apertura de la cámara...";
+
+/*Invalid operation Alert title*/
+"Invalid Operation" = "Operación inválida";
+
+/*Invalid operation Alert context*/
+"Cannot connect two devices both have old phone setting." = "No se pueden conectar dos dispositivos con los dos configurados como teléfono antiguo";
+
+/*To start searching devices string*/
+" to start searching for devices." = " para iniciar la búsqueda de dispositivos.";
+
+/*Invitation rejected alert context*/
+"The invitation is rejected by new device, please try again." = "La invitación fue rechazada por el nuevo dispositivo. repite, por favor.";
+
+/*Error reading code alert context*/
+"Error reading the code. Please make sure you have scanned the correct code or choose Manual Setup." = "Error al leer el código. Asegúrese de haber escaneado el código correcto o seleccione Configuración Manual.";
+
+/*Error reading code alert context - multipeer*/
+"The code you scanned does not match the device setup: Multiple phone transfer. Please restart the transfer to select the correct setup." = "El código escaneado no coincide con la configuración del dispositivo: Transferencia telefónica múltiple. Reinicie la transferencia para seleccionar los ajustes correctos.";
+
+/*Error scanning code alert context Other to iPhone*/
+"The code you scanned does not match the device setup: Other to iPhone. Please restart the transfer to select the correct setup." = "El código escaneado no coincide con la configuración del dispositivo: Otro a iPhone. Reinicie la transferencia para seleccionar los ajustes correctos.";
+
+/*Error scanning code alert context iPhone to Other*/
+"The code you scanned does not match the device setup: iPhone to Other. Please restart the transfer to select the correct setup." = "El código escaneado no coincide con la configuración del dispositivo: iPhone a Otro. Reinicie la transferencia para seleccionar los ajustes correctos.";
+
+/*Error scanning code alert context iPhone to iPhone*/
+"The code you scanned does not match the device setup: iPhone to iPhone. Please restart the transfer to select the correct setup." = "El código escaneado no coincide con la configuración del dispositivo: iPhone a iPhone. Reinicie la transferencia para seleccionar los ajustes correctos.";
+
+/*Error scanning code alert context one to many*/
+"The code you scanned does not match the device setup: one to many. Please restart the transfer to select the correct setup." = "El código escaneado no coincide con la configuración del dispositivo: uno a muchos. Reinicie la transferencia para seleccionar los ajustes correctos.";
+
+/*Error scanned code alert context is one to many*/
+"The code you scanned is for one to many. It doesn't match your current setup. Please restart the transfer to select the correct setup." = "El código escaneado es uno a muchos. No coincide con la configuración actual. Reinicie la transferencia para seleccionar los ajustes correctos.";
+
+/*Unable to connect to other device due to wifi not connected on other device - alert context*/
+"Unable to connect to the other device. Please join a Wi-Fi network on the other device and rescan\n\nor\n\nSelect Manual Setup on both devices" = "No se puede conectar a otro dispositivo. Únase a una red Wi-Fi en el otro dispositivo y volver a escanear\n\no\n\nSeleccione Configuración Manual en ambos dispositivos";
+
+/*Unable to connect to other device due to wifi not connected on other device rescan and do manual setup- alert context*/
+"Unable to connect to the other device. Please rescan or try Manual Setup." = "No se puede conectar a otro dispositivo. Volver a escanear or intenta Configuración Manual.";
+
+/*Connect to device hot-spot alert title*/
+"Connect to Device Hotspot" = "Conectarse al Hotspot del dispositivo";
+
+/*Connect to device hot-spot alert context part 1*/
+"\nGo to Settings > Wi-Fi to connect to the network: %@." = "\nVaya a Configuración> Wi-Fi para conectarse a la red: %@.";
+
+/*Connect to device hot-spot alert context part 2*/
+"\n\nThe password has been copied to your clipboard." = "\n\nLa contraseña se ha copiado a tu portapapeles.";
+
+/*Connect to device hot-spot alert context part 3*/
+" Paste it into the Wi-Fi password field." = " Pégalo en el campo de la contraseña de Wi-Fi.";
+
+/*Connect device to network shown alert context*/
+"Please connect this devices to the network shown below.\n\nNetwork name: %@." = "Conecte estos dispositivos a la red que se muestra a continuación.\n\nNombre de red: %@.";
+
+/*Connect to n/w shown info label*/
+"Please connect to the network shown below." = "Conéctese a la red que se muestra a continuación.";
+
+/*Connect to n/w shown sec label part1*/
+"Please go to Wi-Fi Settings on your device setting app to connect to below network.\n\nPath on device: Settings -> Wi-Fi\n\n" = "Vaya a Configuración Wi-Fi en la aplicación de configuración del dispositivo para conectarse a la red inferior.\n\nRuta del dispositivo: Configuración-> Wi-Fi\n\n";
+
+/*Connect to n/w shown sec label part2*/
+"Network name: %@" = "Nombre de la red: %@";
+
+/*Connect to n/w shown sec label part3*/
+"\n\nPassword: %@" = "\n\nContraseña: %@";
+
+/*Pin error alert context*/
+"Please check the pin, verify both phones are still connected to same network and retry." = "Verifica el PIN y que los dos teléfonos están conectados a la misma red y vuelve a intentarlo.";
+
+/*Wi-Fi setup viewcontroller navigation title*/
+"Pairing" = "Emparejamiento";
+
+/*Wi-Fi setup VC secondary label text*/
+"Find a secure network and connect both phones" = "Encuentra una red segura y conecta los dos teléfonos";
+
+/*Wi-Fi NOT CONNECTED label text*/
+"WiFi is not connected" = "WiFi no está conectado";
+
+/*Unable to access hot spot alert context*/
+"Unable to acess hotspot network. Please check other device hotspot setting, and try again." = "Unable to acess hotspot network. Please check other device hotspot setting, and try again.";
+
+/*Forget all networks alert context*/
+"For best performance please turn on WiFi, but forget all your networks. Data charge will not apply. Go to Settings -> Wi-Fi.  Press \"i\" button and select \"Forget This Network\"  for all joined networks." = "Para mejor rendimiento, activa Wi-Fi pero olvida todas tus redes. No se aplicarán cargos por datos. Ve a Configuración -> Wi-Fi.  Oprime el botón \"i\" y selecciona \"Olvidar esta red\" para cada una de las redes a las que está unido el dispositivo.";
+
+/*I dont see my phone cell label*/
+"I don't see my phone" = "No veo mi teléfono";
+
+/*Check Wi-Fi alert context*/
+"Please check your mobile wifi connection" = "Compruebe su conexión wifi móvil";
+
+/*Connecting Please wait custom alertview alert context*/
+"Connecting. Please wait.." = "Conectando. Por favor, espera..";
+
+/*Invalid pin alert context*/
+"Invalid PIN, please try again." = "PIN no válido, inténtalo de nuevo.";
+
+/*Check Wi-Fi configuration alert context*/
+"Unable to connect. Please check the Wifi Setting on the other device" = "No se puede conectar. Compruebe la configuración Wifi en el otro dispositivo";
+
+/*Version mismatch sender higher alert context*/
+"The Content Transfer app on the other device seems to be out of date. Please update the app on that device to v:%@ or higher" = "La aplicación X en el otro dispositivo parece estar obsoleta. Actualice la aplicación en ese dispositivo a:%@ o mas alto";
+
+
+/*Sender failed to connect alert context*/
+"Fail to connect due to reason:\"%@\". Please check the Wi-Fi configuration" = "No se puede conectar debido a la razón:\"%@\". Por favor, comprueba la configuración de Wi-Fi,";
+
+/*No content activity indicator alert context*/
+"Some of the items selected for transfer have no content on your device. Please verify your selections once more before clicking on \"Transfer\"." = "Algunos de los elementos seleccionados para la transferencia no tienen contenido en su dispositivo. Verifique sus selecciones una vez más antes de hacer clic en \"Transferir\".";
+
+/*Collecting data custom alert view context*/
+"Collecting %@ for you...\nPlease wait..." = "Recopilando %@ para ti...\nEspera por favor...";
+
+/*Audio format error alert context*/
+"Audio from this device might not play in the default player on your new device." = "Es posible que el audio de este dispositivo no se reproduzca en el reproductor predeterminado del nuevo dispositivo.";
+
+/*iOS Version mismatch alert context*/
+"Your current version of iOS does not support Audio transfer. Update your device to transfer Audio content." = "La versión actual de iOS no es compatible con la transferencia de audio. Actualice su dispositivo para transferir contenido de audio.";
+
+/*Sign in to cloud alert context*/
+"Contacts that you have saved in Cloud will not be transferred. Sign in to your Cloud account from your new device to retrieve these contacts." = "Los contactos que haya guardado en Cloud no se transferirán. Inicie sesión en su cuenta de Cloud desde su nuevo dispositivo para recuperar estos contactos.";
+
+/*Collecting secondary cell label*/
+"Collecting..." = "Recopilando...";
+
+/*Permission not granted secondary cell label*/
+"Permission Not Granted" = "Permiso no concedido";
+
+/*Photos count in icloud teritiary label*/
+"%ld in Cloud" = "%ld en Cloud";
+
+/*Audio Primary label*/
+"Audio" = "Audio";
+
+/*Not supported secondary label*/
+"Not supported" = "No soportado";
+
+/*Permission not granted alert context*/
+"Permission is not granted. Please go to settings and give permission" = "El permiso no se concede. Por favor, vaya a la configuración y dé permiso";
+
+/*Deselect all button title*/
+"Deselect All" = "Anular selección";
+
+/*Select all button title*/
+"Select All" = "Seleccionar todo";
+
+/*Stop transfer alert title*/
+"Are you sure you want to leave now?" = "¿Estás seguro de que quieres irte ahora?";
+
+/*Stop transfer alert context*/
+"If you stop the transfer, you'll have to start over again." = "Si detienes la transferencia, tendrás que empezar de nuevo.";
+
+/*Files over limit SECONDARY LABEL*/
+"We can't fit %lld MB of things on your %lld MB new phone. Select less files and try again" = "No podemos encajar %lld MB de cosas en su %lld MB nuevo teléfono. Seleccione menos archivos e inténtelo de nuevo";
+
+/*Photo primary label*/
+"photo" = "foto";
+
+/*Video primary label*/
+"video" = "vídeo";
+
+/*Audio primary label*/
+"audio" = "audio";
+
+/*Transfer failed alert context*/
+"Your connection failed. Please try again." = "Su conexión ha fallado. Rever.";
+
+/*Transfer Navigation title*/
+"Transfer" = "Transferir";
+
+/*Cell Key label*/
+"Sent" = "Enviado";
+
+/*Speed label*/
+"Speed" = "Velocidad";
+
+/*Sending Amount*/
+"Sending %@" = "Enviando %@";
+
+/*Last transfer failed alert context*/
+"Your last transfer failed, we will save all contents already transferred. Please try again to continue the rest of the data." = "Su última transferencia falló, guardaremos todos los contenidos ya transferidos. Inténtalo de nuevo para continuar el resto de los datos.";
+
+/*Time left label*/
+"Time left" = "Tiempo restante";
+
+/*Received key label*/
+"Received" = "Recibido";
+
+/*Transferred content of total content label*/
+"%@ of %@" = "%@ de %@";
+
+/*Transferred cotent of total content label in summary page.*/
+"%ld of %ld" = "%ld de %ld";
+
+/*Receiving amount label*/
+"Receiving %@" = "Recibiendo %@";
+
+/*Contacts permission alert title*/
+"Cannot Add Contact" = "No se puede agregar contacto";
+
+/*Data saving view controller navigation title*/
+"Transfer Saving" = "Transferencia Ahorrando";
+
+/*Almost done label*/
+"Almost done." = "Casi termino.";
+
+/*Data saving view controller sec label*/
+"Your things are being sorted and saved." = "Sus cosas están siendo ordenadas y guardadas.";
+
+/*Data saving view controller key label*/
+"Preparing data to be saved" = "Preparación de datos para guardarlos";
+
+/*App list VC nav title*/
+"Install Apps" = "Instalar Aplicaciones";
+
+/*No internet context*/
+"You need Internet connection to fetch the necessary information for your apps list. Please connect to avaliable network or press \"Done\" button to continue." = "Necesita una conexión a Internet para obtener la información necesaria para su lista de aplics. Por favor, conéctese a la red disponible o presione el botón \"Terminado\" para continuar.";
+
+/*Save list alert context*/
+"Do you want to save the list? If you save the list, you can come back to content transfer to download your installed app at anytime in future." = "¿Desea guardar la lista? Si guarda la lista, puede volver a Content Transfer para descargar la aplics instalada en cualquier momento en el futuro.";
+
+/*Transfer Finish screen navigation title*/
+"Transfer Complete" = "Transferencia Completa";
+
+/*Error navigation title*/
+"Error" = "Error";
+
+/*Transfer summary navigation title*/
+"Transfer Summary" = "Resumen de la transferencia";
+
+/*Transfer summary info label*/
+"* Some videos and pictures moved to your new device may not appear in the gallery (eg: .mov and .png). Please find the appropriate app(s) to view them." = "* Es posible que algunos vídeos e imágenes movidos al nuevo dispositivo no aparezcan en la galería (por ejemplo: .mov y .png). Encuentra el aplic adecuadas para ver.";
+
+/*Transfer summary DATA status label*/
+"No media was transferred." = "No se transfirió ningún medio.";
+
+/*Transfer summary transferred DATA status label*/
+"See how %@ MB of your %@ transferred." = "Vea cómo %@ MB de su %@ transferido.";
+
+/*Transfer summary Speed info label*/
+"Average Speed: %@" = "Velocidad Promedio: %@";
+
+/*Transfer summary total time info label*/
+"Total Time: %@" = "Tiempo Total: %@";
+
+/*Localized number of hrs format*/
+"%ld hrs" = "%ld h";
+
+/*Localized number of mins format*/
+"%ld min" = "%ld min";
+
+/*Localized number of secs format*/
+"%ld sec" = "%ld s";
+
+/*Localized format of 1 sec*/
+"1 sec" = "1 s";
+
+/*Transfer Summary Label*/
+"See how %@ of your %@ transferred." = "Vea cómo %@ de su %@ transferido.";
+
+/*Transfer Details Nav title*/
+"Transfer Summary Details" = "Detalles de la transferencia";
+
+/*All set message*/
+"All set. Your things transferred smoothly." = "Listo. Tus cosas se transfirieron sin problemas.";
+
+/*Transfer details error message*/
+"Some of your things didn't transfer all the way." = "Algunas de tus cosas no fueron completamente transferidas";
+"You can manually back up your things to a computer to keep them safe." = "Puedes respaldar tus cosas manualmente en una computadora para mantenerlas seguras.";
+
+/*No permission to contacts - Transfer status label*/
+"You have not granted permission for contacts" = "No has concedido permiso para contactos";
+
+/*Grant permission to contacts - Transfer status detail label*/
+"You can give permission for contacts and try again." = "Puedes dar permiso para contactos e intentarlo de nuevo.";
+
+/*No permission to photos - Transfer status label*/
+"You have not granted permission for photos" = "No has concedido permiso para fotos";
+
+/*Grant permission to photos - Transfer status detail label*/
+"You can give permission for photos and try again." = "Puedes dar permiso para fotos e intentarlo de nuevo.";
+
+/*No permission to videos - Transfer status label*/
+"You have not granted permission for videos" = "No has concedido permiso para vídeos";
+
+/*Grant permission to videos - Transfer status detail label*/
+"You can give permission for videos and try again." = "Puedes dar permiso para vídeos e intentarlo de nuevo.";
+
+/*No permission to calanders - Transfer status label*/
+"You have not granted permission for calendars." = "No has concedido permiso para calendarios";
+
+/*Grant permission to calanders - Transfer status detail label*/
+"You can give permission for calendars and try again." = "Puedes dar permiso para calendarios e intentarlo de nuevo.";
+
+/*No permission to reminders - Transfer status label*/
+"You have not granted permission for reminders." = "No has concedido permiso para recordatorios";
+
+/*Grant permission to reminders - Transfer status detail label*/
+"You can give permission for reminders and try again." = "Puedes dar permiso para recordatorios e intentarlo de nuevo.";
+
+/*Sign in to icloud for photos - Transfer status detail label*/
+"Sign in to iCloud account on your new device to download photos saved to iCloud" = "Accede a la cuenta de iCloud en tu nuevo dispositivo para descargar las fotos guardadas en iCloud";
+
+/*Sign in to icloud for videos - Transfer status detail label*/
+"Sign in to iCloud account on your new device to download videos saved to iCloud" = "Accede a la cuenta de iCloud en tu nuevo dispositivo para descargar las vídeos guardadas en iCloud";
+
+/*Transfer Fail reason - Transfer status detail label*/
+"%ld files fail to save due to reason: %@" = "%ld los archivos no se pueden guardar debido a la razón: %@";
+
+/*Transfer failed when transfer live photo.*/
+"Some of your live photos may become regular photos." = "Algunas de sus fotos en vivo pueden convertirse en fotos normales.";
+
+/*Multiple Phone transfer option label*/
+"Multiple Phone Transfer" = "Transferencia Telefónica Múltiple";
+
+/*Combination option label*/
+"Combination" = "Combinación";
+
+/*iOS Devices only option label*/
+"iOS devices only" = "Sólo dispositivos iOS";
+
+/*Turn off bletooth literal string*/
+"and turn off bluetooth" = "y apagar bluetooth";
+
+/*Start pairing devices literal string*/
+" to start pairing devices." = " para iniciar el emparejamiento de dispositivos.";
+
+/*Error reading code STM alert context*/
+"Error reading the code. Please make sure you have scanned the correct code." = "Error reading code. Make sure you have scanned the correct code.";
+
+/*Invalid QR code alert context*/
+"Invalid QR Code" = "Código QR invalido";
+
+/*Scan QR code on other device title label*/
+"Scan this QR code with the other device." = "Escanee este código QR con el otro dispositivo.";
+
+/*Scan QR code on other device sub title label*/
+"Scan this code on up to 7 devices." = "Escanee este código en hasta 7 dispositivos.";
+
+/*What are you transferring title label*/
+"What are you transferring?" = "¿Qué estás transfiriendo?";
+
+/*What are you transferring sub title label*/
+"Choose all the things you want on your new phone." = "Elige todas las cosas que deseas en tu nuevo teléfono.";
+
+/*Cloud label*/
+"* Sign in to your Cloud account on the new device to access Cloud content." = "* Inicia sesión en su cuenta de Cloud en el nuevo dispositivo para acceder al contenido de tu nube.";
+
+/*Transfer in progress title label*/
+"Your transfer is in progress" = "Su transferencia está en curso";
+
+/*Transfer in progress sub title label*/
+"Keep the app open for a smooth transfer" = "Mantener la aplic abierta para una transferencia sin problemas";
+
+/*Footer text*/
+"Scroll down to check more devices" = "Desplácese hacia abajo para comprobar más dispositivos";
+
+/*Header Text part 1*/
+"Total Transfer" = "Transferencia Total";
+
+/*Header text part 2*/
+"files with size of" = "archivos con tamaño de ";
+
+/*Device Label*/
+"Device: " = "Dispositivo: ";
+
+/*Device Detail Label*/
+"Total Connected:" = "Total conectados:";
+
+/*Files count*/
+"Files" = "Archivos";
+
+/*In Cloud*/
+"in Cloud" = "en Cloud";
+
+/*No device space alert context*/
+"Not enough space for the selected contents on all devices. Do you want to continue without transferring to those devices?" = "No hay suficiente espacio para los contenidos seleccionados en todos los dispositivos. ¿Desea continuar sin transferir a esos dispositivos?";
+
+/*No devices space alert context*/
+"None of the devices have enough space for selected content" = "Ninguno de los dispositivos tiene suficiente espacio para el contenido seleccionado";
+
+/*Less thn 1 MB*/
+"Less than 1 MB" = "Menos de 1 MB";
+
+/*Transfer rate formatter*/
+"%.1f of %.1f MB" = "%.1f of %.1f MB";
+
+/*Transfer total rate formatter*/
+"0 of %.1f MB" = "0 de %.1f MB";
+
+/*Receiving file list literal string*/
+"Receiving file list" = "Recepción de la lista de archivos";
+
+/*Recap title label*/
+"Here’s your transfer recap." = "Aquí está su Resumen de la transferencia";
+
+/*Recap screen Done button*/
+"Done" = "Terminado";
+
+/*Next button*/
+"Next" = "Siguiente";
+
+/*Camera Roll album name*/
+"Camera Roll" = "Rollo fotográfico";
+
+/*Recently added album name*/
+"Recently Added" = "Añadido recientemente";
+
+/*All Photos album name*/
+"All Photos" = "Todas las fotos";
+
+/*Terms and Conditions hyper link*/
+"Terms and Conditions" = "Términos y Condiciones";
+
+/*Privacy policy hyperlink*/
+"Privacy Policy" = "Política de privacidad";
+
+/*About hyper link*/
+"About" = "Acerca de";
+
+/*File list media type*/
+"file list" = "lista de archivos";
+
+/*Apps media type*/
+"apps" = "aplicaciones";
+
+/*Bonjour reconnect alert title*/
+"Reconnecting..." = " Reconectando...";
+
+/*Bonjour reconnect localization alert context*/
+"Something wrong with your connection. Please wait..." = "Algo mal con tu conexión. Por favor espera...";
+
+/*Data saving finished self dismissing alert message*/
+"Save Finished!" = "¡Guardar terminado!";
+
+/*Data deleting finished self dismissing alert message*/
+"Delete Finished!" = "¡Eliminar terminado!";
+
+/*Reconnect self dismissing alert message*/
+"Reconnect failed. Try again in %ds." = "No se pudo volver a conectar. Inténtalo de nuevo en %ds.";

@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Your code is ready."; ObjectID = "1Aj-SP-9Gn"; */
+"1Aj-SP-9Gn.text" = "Your code is ready.";
+
+/* Class = "UILabel"; text = "1234"; ObjectID = "9UI-U5-iEy"; */
+"9UI-U5-iEy.text" = "1234";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "It5-i2-eed"; */
+"It5-i2-eed.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "JQ5-pz-eMQ"; */
+"JQ5-pz-eMQ.text" = "Code";
+
+/* Class = "UIButton"; normalTitle = "WiFi settings"; ObjectID = "JRK-SF-JvX"; */
+"JRK-SF-JvX.normalTitle" = "Wi-Fi settings";
+
+/* Class = "UILabel"; text = "Connect to the network shown on the other device."; ObjectID = "JrX-6C-r0z"; */
+"JrX-6C-r0z.text" = "Connect to the network shown on the other device.";
+
+/* Class = "UILabel"; text = "WiFi Connected to:"; ObjectID = "KGF-ET-bWg"; */
+"KGF-ET-bWg.text" = "Wi-Fi Connected to:";
+
+/* Class = "UILabel"; text = "Check your other phone and enter the code below."; ObjectID = "Ocq-rY-X7E"; */
+"Ocq-rY-X7E.text" = "Check your other phone and enter the code below.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Si0-xr-YJw"; */
+"Si0-xr-YJw.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TB1-XD-SeZ"; */
+"TB1-XD-SeZ.text" = "Label";
+
+/* Class = "UILabel"; text = "WiFi Connected to:"; ObjectID = "ZIE-ia-8v8"; */
+"ZIE-ia-8v8.text" = "WiFi Connected to:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aed-2l-Rbl"; */
+"aed-2l-Rbl.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "bGO-Tf-5uZ"; */
+"bGO-Tf-5uZ.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ec7-4g-Qq3"; */
+"ec7-4g-Qq3.text" = "Label";
+
+/* Class = "UILabel"; text = "Network name"; ObjectID = "h6x-Id-qhl"; */
+"h6x-Id-qhl.text" = "Network name";
+
+/* Class = "UILabel"; text = "Enter your code."; ObjectID = "qtZ-kN-8e6"; */
+"qtZ-kN-8e6.text" = "Enter your code.";
+
+/* Class = "UILabel"; text = "Now, connect both phones to the same network."; ObjectID = "t7N-9P-Nnx"; */
+"t7N-9P-Nnx.text" = "Now, connect both phones to the same network.";
+
+/* Class = "UILabel"; text = "Use this code to connect your phones."; ObjectID = "tpV-UY-ylQ"; */
+"tpV-UY-ylQ.text" = "Use this code to connect your phones.";

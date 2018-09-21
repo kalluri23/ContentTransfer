@@ -1,0 +1,37 @@
+{
+    "version": "1.0",
+    "lastModified": "2016-05-04T21:09:35.031Z",
+    "target": {
+        "clientCode": "",
+        "timeout": 5
+    },
+    "audienceManager": {
+        "server": "",
+        "analyticsForwardingEnabled": false,
+        "timeout": 5
+    },
+    "analytics": {
+        "rsids": "vzwimobilepocdev",
+        "server": "mobile.vzw.com/sc",
+        "ssl": true,
+        "offlineEnabled": true,
+        "charset": "UTF-8",
+        "lifecycleTimeout": 300,
+        "privacyDefault": "optedin",
+        "batchLimit": 0,
+        "timezone": "PDT",
+        "timezoneOffset": -420,
+        "referrerTimeout": 5,
+        "backdateSessionInfo": false,
+        "poi" : []
+    },
+    "acquisition": {
+        "server": "c00.adobe.com",
+        "appid": "89eada21958d097e015dc120d182b2321e8e485a4dbc2e8265660acad7fcdad8"
+    },
+    "messages": [],
+    "remotes": {
+        "analytics.poi": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-56fabf6964746d311b003f15.json",
+        "messages": "https://assets.adobedtm.com/b213090c5204bf94318f4ef0539a38b487d10368/scripts/satellite-56fabf6864746d08c6004021.json"
+    }
+}

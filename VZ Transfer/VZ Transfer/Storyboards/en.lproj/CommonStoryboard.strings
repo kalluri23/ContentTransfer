@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "LUl-k9-bQ4"; */
+"LUl-k9-bQ4.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Make sure you pick the same network in the WiFi settings. Try again."; ObjectID = "Lyt-jQ-0Rf"; */
+"Lyt-jQ-0Rf.text" = "Make sure you pick the same network in the Wi-Fi settings. Try again.";
+
+/* Class = "UIButton"; normalTitle = "Got it"; ObjectID = "iAu-HC-e5K"; */
+"iAu-HC-e5K.normalTitle" = "Got it";
+
+/* Class = "UILabel"; text = "Your networks don’t match."; ObjectID = "xAk-Pp-yfg"; */
+"xAk-Pp-yfg.text" = "Your networks don’t match.";

@@ -1,0 +1,51 @@
+
+/* Class = "UIButton"; normalTitle = "Manual setup"; ObjectID = "34h-Yf-5k8"; */
+"34h-Yf-5k8.normalTitle" = "Manual setup";
+
+/* Class = "UIButton"; normalTitle = "Wi-Fi Settings"; ObjectID = "7Nv-K1-eTt"; */
+"7Nv-K1-eTt.normalTitle" = "Wi-Fi Settings";
+
+/* Class = "UILabel"; text = "Scan this QR code with the other device."; ObjectID = "C67-Jv-yii"; */
+"C67-Jv-yii.text" = "Scan this QR code with the other device.";
+
+/* Class = "UIButton"; normalTitle = "Manual setup"; ObjectID = "JNf-xj-hV1"; */
+"JNf-xj-hV1.normalTitle" = "Manual setup";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "M6f-rW-RMT"; */
+"M6f-rW-RMT.text" = "Label";
+
+/* Class = "UILabel"; text = "Be on the lookout for an invite to start the transfer."; ObjectID = "N1W-AG-8UG"; */
+"N1W-AG-8UG.text" = "Be on the lookout for an invite to start the transfer.";
+
+/* Class = "UILabel"; text = "WiFi Connected to:"; ObjectID = "OqU-My-awI"; */
+"OqU-My-awI.text" = "Wi-Fi Connected to:";
+
+/* Class = "UILabel"; text = "Use this device to scan the QR code on the other screen."; ObjectID = "PXM-gV-Hkg"; */
+"PXM-gV-Hkg.text" = "Use this device to scan the QR code on the other screen.";
+
+/* Class = "UILabel"; text = "Check your new phone and connect."; ObjectID = "Pca-Tj-5Nn"; */
+"Pca-Tj-5Nn.text" = "Check your new phone and connect.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QVC-IE-0yv"; */
+"QVC-IE-0yv.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XB1-v3-Y9o"; */
+"XB1-v3-Y9o.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Could not connect"; ObjectID = "cLl-ar-Orx"; */
+"cLl-ar-Orx.normalTitle" = "Could not connect";
+
+/* Class = "UIButton"; normalTitle = "Wi-Fi Settings"; ObjectID = "csd-Sh-HGe"; */
+"csd-Sh-HGe.normalTitle" = "Wi-Fi Settings";
+
+/* Class = "UIButton"; normalTitle = "Manual setup"; ObjectID = "eJl-c3-uus"; */
+"eJl-c3-uus.normalTitle" = "Manual setup";
+
+/* Class = "UILabel"; text = "Peek at your other screen."; ObjectID = "hay-Pc-CNn"; */
+"hay-Pc-CNn.text" = "Peek at your other screen.";
+
+/* Class = "UILabel"; text = "Scan this QR code with the other device."; ObjectID = "jVD-IJ-Qwt"; */
+"jVD-IJ-Qwt.text" = "Scan this QR code with the other device.";
+
+/* Class = "UILabel"; text = "Scan this QR code with the other device."; ObjectID = "tgb-Ro-YE0"; */
+"tgb-Ro-YE0.text" = "Scan this QR code with the other device.";
